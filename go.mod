@@ -3,7 +3,7 @@ module github.com/Mishka-Squat/astar
 go 1.26
 
 require (
-	github.com/Mishka-Squat/gamemath v0.0.0-20260410153339-fe866f803731
+	github.com/Mishka-Squat/gamemath v0.0.0-20260416222311-4df43ca72563
 	github.com/Mishka-Squat/heap v0.0.0-20260410153338-e5b0f49cfd4d
 )
 
